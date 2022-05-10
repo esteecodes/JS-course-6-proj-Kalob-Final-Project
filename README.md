@@ -1,1 +1,2 @@
-# JS-course-6-projects-Kalob
+# Final Project
+## JavaScript for Beginners (includes 6+ real life projects)
