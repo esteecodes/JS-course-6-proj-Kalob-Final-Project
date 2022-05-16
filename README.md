@@ -1,7 +1,7 @@
 <h3>This is the Final Project from the following course -<h3>
 <a href="https://arbington.com/courses/javascript-for-beginners/"><h2>JavaScript for Beginners (includes 6+ real life projects)</a></h2>
 
-maybe I'll add more to it... at some point...
+  <p>maybe I'll add more to it... at some point - May 10, 2022</p>
 
 <a href="https://esteecodes.github.io/JS-course-6-proj-Kalob-Final-Project/"><h2>JS Moving Letters</h2></a>
 
